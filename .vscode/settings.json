@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.ejs": "html",
+    "*.dbclient-js": "javascript",
+    "javascript": "javascriptreact",
+    "*.tsx": "typescriptreact",
+    "vector": "cpp",
+    "iostream": "cpp",
+    "algorithm": "cpp"
+  }
+}
